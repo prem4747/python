@@ -91,7 +91,7 @@
     "        if abs(num-guess) <= 10:\n",
     "            print('WARM!')\n",
     "        else:\n",
-    "            print('COLD!')    \n",
+    "            print('COLD! ')    \n",
     "   \n",
     "            "
    ]
